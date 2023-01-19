@@ -1,0 +1,40 @@
+Design Doc
+
+Buttons
+    A Jump
+    X Attack
+    B Range Bolt
+
+Jump
+    Jump
+Attack (push)
+    Combo 1->2->Launcher (neutral)
+    ??? (0.3s negative edge)
+    Stinger (forward)
+    Spike (back)
+
+Ranged
+    Snatch 
+
+Movement
+    Jump (Dodge)
+    Airdash
+    Air Trick
+Misc
+    Wall bounce
+
+
+TODO:
+    !!! Scoring
+    !! Art
+        Player
+        Electricity
+        Enemy
+        BG
+    ! Hold Attack?
+    !! Sound
+    ! Menu
+    ! Level Finish
+    ! Tutorial?
+    ! Controller Support
+    ! Projectiles
