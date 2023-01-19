@@ -5,7 +5,7 @@
 ## A Stylish 12 Second Combofest
 This was a game I made for the 72 hour game-jam: [KO!! Slam-Jam](https://itch.io/jam/ko-slam-jam). I used the 120 Seconds / Zing (⚡) theme for my project.
 
-Play WebGL verrsion here on Itch: https://sewermonk.itch.io/12-second-shockdown
+Play WebGL Version Here: https://sewermonk.itch.io/12-second-shockdown
 
 
 ## Setup
