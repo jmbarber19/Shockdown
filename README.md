@@ -24,13 +24,13 @@ Play WebGL verrsion here on Itch: https://sewermonk.itch.io/12-second-shockdown
 
 
 ## Credits
-| Content                                                             | Asset                          | Author                                                                                 |
-| ------------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------- |
-| Everything                                                          | Coding, Art, Vfx, Design       | Me                                                                                     |
-| Music: [Alley Boss](https://www.youtube.com/watch?v=i7qdjDqi8fk)    | Alleyboss.mp3                  | [Waterflame](https://www.youtube.com/@WaterflameMusic)                                 |
-| Music: [Sunwalker](https://www.youtube.com/watch?v=NA2KtP7xu6U)     | Sunwalker.mp3                  | [Waterflame](https://www.youtube.com/@WaterflameMusic)                                 |
-| Music: [Welkin Sphere](https://www.youtube.com/watch?v=ZSpWtiGTLEs) | Velkinsphere.mp3               | [Waterflame](https://www.youtube.com/@WaterflameMusic)                                 |
-| Music: [Welkin Wing](https://www.youtube.com/watch?v=Pb9CaBuVt0g)   | Welkinwing.mp3                 | [Waterflame](https://www.youtube.com/@WaterflameMusic)                                 |
-| Sound Effects: All                                                  | SFX folder [Excluding `Music`] | DMC3 Sound Effects / [Angelglory](https://www.sounds-resource.com/playstation_2/dmc3/) |
-| Typeface: Bump It Up                                                | BUMPITUP SDF.asset             | [Aaronamar](https://fontstruct.com/fontstructions/show/155156/bump_it_up)              |
-| Typeface: Cambria                                                   | CAMBRIA SDF.asset              | Microsoft                                                                              |
+| Content                                                             | Asset                            | Author                                                                                 |
+| ------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------- |
+| Everything                                                          | Coding, Art, Vfx, Design         | Me                                                                                     |
+| Music: [Alley Boss](https://www.youtube.com/watch?v=i7qdjDqi8fk)    | `SFX\Music\Alleyboss.mp3`        | [Waterflame](https://www.youtube.com/@WaterflameMusic)                                 |
+| Music: [Sunwalker](https://www.youtube.com/watch?v=NA2KtP7xu6U)     | `SFX\Music\Sunwalker.mp3`        | [Waterflame](https://www.youtube.com/@WaterflameMusic)                                 |
+| Music: [Welkin Sphere](https://www.youtube.com/watch?v=ZSpWtiGTLEs) | `SFX\Music\Velkinsphere.mp3`     | [Waterflame](https://www.youtube.com/@WaterflameMusic)                                 |
+| Music: [Welkin Wing](https://www.youtube.com/watch?v=Pb9CaBuVt0g)   | `SFX\Music\Welkinwing.mp3`       | [Waterflame](https://www.youtube.com/@WaterflameMusic)                                 |
+| Sound Effects: All                                                  | `SFX` folder [Excluding `Music`] | DMC3 Sound Effects / [Angelglory](https://www.sounds-resource.com/playstation_2/dmc3/) |
+| Typeface: Bump It Up                                                | `Fonts\BUMPITUP SDF.asset`       | [Aaronamar](https://fontstruct.com/fontstructions/show/155156/bump_it_up)              |
+| Typeface: Cambria                                                   | `Fonts\CAMBRIA SDF.asset`        | Microsoft                                                                              |
