@@ -1,25 +1,29 @@
 # 12 Second Shockdown
 ![Game Logo](Art/Logo.png)
 
+
 ## A Stylish 12 Second Combofest
 This was a game I made for the 72 hour game-jam: [KO!! Slam-Jam](https://itch.io/jam/ko-slam-jam). I used the 120 Seconds / Zing (⚡) theme for my project.
 
 Play WebGL verrsion here on Itch: https://sewermonk.itch.io/12-second-shockdown
 
-# Setup
+
+## Setup
 1. Use Unity Hub create a new project with Unity Version `2021.3.2f1`
 2. Replace the newly created Assets folder with this repository
 3. Install these Packages using the Unity Package Manager
    - TextMeshPro
    - ShaderGraph
 
-# Tools Used
+
+## Tools Used
 - Unity
 - Visual Studio Code
 - Clip Studio Paint
 - Audacity
 
-# Credits
+
+## Credits
 | Content                                                             | Asset                          | Author                                                                                 |
 | ------------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------- |
 | Everything                                                          | Coding, Art, Vfx, Design       | Me                                                                                     |
